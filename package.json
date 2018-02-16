@@ -1,0 +1,20 @@
+{
+  "name": "esame_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "exam_social": "^1.0.0",
+    "express": "^4.16.2",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
